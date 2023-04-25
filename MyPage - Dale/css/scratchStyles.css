@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+    background-color: #9f9c9c;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  ol {
+    text-align: center;
+    list-style-position: inside;
+  }
+ul {
+    text-align: center;
+    list-style-position: inside;
+  }
+li {
+    text-align: center;
+}
+  .emphasizedText {
+    text-align: center;
+    color: #fafafa;
+    font-style: italic;
+  }
+  
+  img {
+    text-align: center;
+    border: 5px solid #cf1818;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .Mystyled-div {
+    text-align: center;
+    background-color: #ffffff;
+    border: 6px solid #3a6e9b;
+    padding: 10px;
+    margin: 10px;
+}
+
+.div1 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: rgb(7, 7, 7);
+}
+
+.div2 {
+  background-color: #4f7fb6;
+  color: #fff;
+  font-family: "Times New Roman", sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: 100px;
+  border-radius: 10px;
+}
+
+.div3 {
+    text-align: center;
+    font-family: Times New Roman, serif;
+    background-color: #4f7fb6;
+    color: rgb(58, 101, 126);
+}
+
+
+
+
+
